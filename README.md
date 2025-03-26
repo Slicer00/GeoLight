@@ -49,3 +49,8 @@ GeoLightは帰宅、外出を検出して照明のONOFFを制御するAndroidア
    ```
 
 5. プロジェクトをビルドし、エミュレーターまたは実機で実行します。  
+
+
+# スクリーンショット
+
+![My Image](screenshot.png)
