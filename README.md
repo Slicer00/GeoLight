@@ -35,7 +35,7 @@ GeoLightは帰宅、外出を検出して照明のONOFFを制御するAndroidア
 
 2. Android Studioでプロジェクトを開きます。  
 
-3. `local.properties` ファイルにGoogle Maps APIキーを設定します。  
+3. `AndroidManifest.xml` ファイルにGoogle Maps APIキーを設定します。  
 
    ```properties
    google.maps.api.key=YOUR_API_KEY
